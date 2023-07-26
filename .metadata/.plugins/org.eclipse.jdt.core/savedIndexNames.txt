@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\mural\saturday-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1387455045.index
+904115731.index
+1112478377.index
+1865797976.index
+266055677.index
+902468884.index
+2831126749.index
